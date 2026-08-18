@@ -1,14 +1,46 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_758_3669)">
-<path d="M0 0V16H16V0H0Z" fill="#808080" fill-opacity="0.00"/>
-<path d="M4 9C5.65685 9 7 7.65685 7 6C7 4.34315 5.65685 3 4 3C2.34315 3 1 4.34315 1 6C1 7.65685 2.34315 9 4 9Z" fill="#232323"/>
-<path d="M11 9C12.6569 9 14 7.65685 14 6C14 4.34315 12.6569 3 11 3C9.34315 3 8 4.34315 8 6C8 7.65685 9.34315 9 11 9Z" fill="#232323"/>
-<path d="M12 10L15 8V14L12 12V10Z" fill="#232323"/>
-<path d="M10 8H3C1.89543 8 1 8.89543 1 10V12C1 13.1046 1.89543 14 3 14H10C11.1046 14 12 13.1046 12 12V10C12 8.89543 11.1046 8 10 8Z" fill="#232323"/>
-</g>
-<defs>
-<clipPath id="clip0_758_3669">
-<rect width="16" height="16" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="folder-videos-symbolic.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="54.75"
+     inkscape:cx="7.9908676"
+     inkscape:cy="9.9178082"
+     inkscape:window-width="2048"
+     inkscape:window-height="1083"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 3,3 h 7 c 2.004567,0 2,2 2,2 v 6 c 0,1.986301 -2,2 -2,2 H 3 C 3,13 1,12.968037 1,11 V 5 C 1,5 0.97716895,3 3,3 Z m 13,1 v 8 L 11,8 Z"
+     id="path1"
+     sodipodi:nodetypes="sscsccscscccc" />
 </svg>
