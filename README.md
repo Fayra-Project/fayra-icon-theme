@@ -1,5 +1,11 @@
 # Fayra Icon Theme
 
+<div style="display:flex;">
+<img style="width:25em;" src="https://github.com/Fayra-Project/fayra-icon-theme/blob/main/preview-1.png"/>
+<img style="width:25em;" src="https://github.com/Fayra-Project/fayra-icon-theme/blob/main/preview-2.png"/>
+</div>
+<p></p>
+
 Fayra is an icon theme created specifically for the [COSMIC](https://system76.com/cosmic/) desktop environment.
 
 It combines application icons from the [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) with system icons from Papirus and the COSMIC Icon Theme. The theme also includes numerous modified and customized icons created to provide a more consistent visual experience within COSMIC.
