@@ -12,6 +12,8 @@ It combines application icons from the [Papirus Icon Theme](https://github.com/P
 
 Fayra is designed primarily for COSMIC. Other desktop environments are not officially supported.
 
+**The project is actively evolving, and the icon theme is still under development.**
+
 ## Installation
 
 1. Select **Code → Download ZIP**.
