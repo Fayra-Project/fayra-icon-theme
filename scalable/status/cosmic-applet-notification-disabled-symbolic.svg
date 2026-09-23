@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="cosmic-applet-notification-disabled-symbolic.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.75"
+     inkscape:cx="7.9906977"
+     inkscape:cy="5.7674419"
+     inkscape:current-layer="svg3" />
+  <g
+     clip-path="url(#clip0_412_3797)"
+     id="g3">
+    <path
+       d="M 12.316318,11.346335 2.7536409,1.7837127 C 2.3753505,1.4054227 1.7620022,1.4054323 1.3837118,1.7837225 1.0054185,2.1620126 1.0054339,2.7753311 1.3837312,3.153631 l 9.5626388,9.562652 c 0.37834,0.378241 0.991611,0.378338 1.369948,0 0.378243,-0.37834 0.378243,-0.991609 0,-1.369948 z"
+       fill="#232323"
+       id="path1"
+       style="stroke-width:0.971595" />
+    <path
+       d="m 3,2.5 c -1.108,0 -2,0.892 -2,2 v 5.00002 c 0,1.108 0.892,2 2,2 h 9.41005 L 3.41001,2.5 Z m 2.39002,0 8.68403,8.68402 c 0.556,-0.355 0.926,-0.973 0.926,-1.684 V 4.5 c 0,-1.108 -0.892,-2 -2,-2 z"
+       fill="#232323"
+       id="path2" />
+    <path
+       d="M 8,11.4 6,14.9 4,11.4 Z"
+       fill="#232323"
+       id="path3"
+       style="stroke-width:1.08012" />
+  </g>
+  <defs
+     id="defs3">
+    <clipPath
+       id="clip0_412_3797">
+      <rect
+         width="16"
+         height="16"
+         fill="white"
+         transform="translate(0.00195312 0.00701904)"
+         id="rect3" />
+    </clipPath>
+  </defs>
+</svg>

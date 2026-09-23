@@ -4,7 +4,7 @@
    height="16"
    version="1.1"
    id="svg1"
-   sodipodi:docname="preferences-power-and-battery-symbolic.svg"
+   sodipodi:docname="com.system76.CosmicAppletBattery-symbolic.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,7 +20,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="38.054373"
-     inkscape:cx="4.8089086"
+     inkscape:cx="4.8351867"
      inkscape:cy="6.67466"
      inkscape:current-layer="svg1" />
   <defs
@@ -34,6 +34,6 @@
   <path
      style="fill:#232323;fill-opacity:1"
      class="ColorScheme-Text"
-     d="M 5,1 V 2 H 2 v 12 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 2 H 9 V 1 Z m 2,4 v 3 h 3 L 7,13 V 10 H 4 Z"
+     d="M 6,1 V 2 H 3 v 12 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 2 H 10 V 1 Z m 2,4 v 3 h 3 L 8,13 V 10 H 5 Z"
      id="path1" />
 </svg>

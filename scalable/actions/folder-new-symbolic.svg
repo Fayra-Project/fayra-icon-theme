@@ -1,10 +1,62 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_409_3697)">
-<path d="M1.84009 2.00998C1.55909 2.05698 0.996094 2.25998 0.996094 3.00998V14.01C0.996094 14.01 0.996094 15.01 1.99609 15.01H13.9961C13.9961 15.01 14.9961 15.01 14.9961 14.01V5.00998C14.9961 4.00998 13.9961 4.00998 13.9961 4.00998H8.99609L6.99609 2.00998H1.99609C1.99609 2.00998 1.93409 1.99398 1.84009 2.00998ZM6.99609 5.00998H8.99609V8.00998H11.9961V10.01H8.99609V13.01H6.99609V10.01H3.99609V8.00998H6.99609V5.00998Z" fill="#232323"/>
-</g>
-<defs>
-<clipPath id="clip0_409_3697">
-<rect width="16" height="16" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="folder-new.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.825626"
+     inkscape:cx="9.0907409"
+     inkscape:cy="8.0116773"
+     inkscape:current-layer="g2" />
+  <g
+     clip-path="none"
+     id="g2">
+    <path
+       d="M 0,0 H 16 V 16 H 0 Z"
+       fill="#808080"
+       fill-opacity="0"
+       id="path1"
+       style="display:inline" />
+    <path
+       id="path2"
+       style="display:inline;fill:#232323;fill-opacity:1"
+       d="M 3 1 C 2.46957 1 1.9610075 1.2108675 1.5859375 1.5859375 C 1.2108575 1.9610175 1 2.46957 1 3 L 1 12 C 1 12.5304 1.2108575 13.038962 1.5859375 13.414062 C 1.9610075 13.789163 2.46957 14 3 14 L 13 14 C 13.5304 14 14.038962 13.789163 14.414062 13.414062 C 14.789163 13.038963 15 12.5304 15 12 L 15 5 C 15 4.46957 14.789163 3.9610175 14.414062 3.5859375 C 14.038963 3.2108675 13.5304 3 13 3 L 9 3 L 7 1 L 3 1 z M 7.4003906 5 L 8.5996094 5 L 8.5996094 7.4003906 L 11 7.4003906 L 11 8.5996094 L 8.5996094 8.5996094 L 8.5996094 11 L 7.4003906 11 L 7.4003906 8.5996094 L 5 8.5996094 L 5 7.4003906 L 7.4003906 7.4003906 L 7.4003906 5 z " />
+  </g>
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0_758_3667">
+      <rect
+         width="16"
+         height="16"
+         fill="white"
+         id="rect2" />
+    </clipPath>
+    <symbol
+       id="MapSymbolsNPS.svg:FirstAid">
+      <title
+         id="title69">First Aid</title>
+      <path
+         d="M 44,13 V 28 H 59 V 44 H 44 V 59 H 28 V 44 H 13 V 28 H 28 V 13 Z"
+         style="stroke:none"
+         id="path70" />
+    </symbol>
+  </defs>
 </svg>

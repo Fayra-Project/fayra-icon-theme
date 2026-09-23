@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="com.system76.CosmicAppletMinimize.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.359375"
+     inkscape:cx="128"
+     inkscape:cy="114.60465"
+     inkscape:current-layer="svg6" />
+  <g
+     id="Size=256">
+    <rect
+       id="Rectangle 418"
+       x="8"
+       y="40"
+       width="240"
+       height="176"
+       rx="16"
+       fill="url(#paint0_linear_2049_378)"
+       style="fill:#3691bb;fill-opacity:1" />
+    <rect
+       id="Rectangle 419"
+       x="24"
+       y="94"
+       width="96"
+       height="68"
+       rx="8"
+       fill="white" />
+    <rect
+       id="Rectangle 439"
+       x="136"
+       y="94"
+       width="96"
+       height="68"
+       rx="8"
+       fill="white" />
+    <circle
+       id="Ellipse 25"
+       cx="112"
+       cy="102"
+       r="4"
+       fill="#229FAD"
+       style="fill:#3691bb;fill-opacity:1" />
+    <circle
+       id="Ellipse 28"
+       cx="224"
+       cy="102"
+       r="4"
+       fill="#229FAD"
+       style="fill:#3691bb;fill-opacity:1" />
+    <circle
+       id="Ellipse 26"
+       cx="102"
+       cy="102"
+       r="4"
+       fill="#229FAD"
+       style="fill:#3691bb;fill-opacity:1" />
+    <circle
+       id="Ellipse 29"
+       cx="214"
+       cy="102"
+       r="4"
+       fill="#229FAD"
+       style="fill:#3691bb;fill-opacity:1" />
+    <circle
+       id="Ellipse 27"
+       cx="92"
+       cy="102"
+       r="4"
+       fill="#229FAD"
+       style="fill:#3691bb;fill-opacity:1" />
+    <circle
+       id="Ellipse 30"
+       cx="204"
+       cy="102"
+       r="4"
+       fill="#229FAD"
+       style="fill:#3691bb;fill-opacity:1" />
+    <rect
+       id="Rectangle 440"
+       x="92"
+       y="138"
+       width="32"
+       height="32"
+       rx="8"
+       fill="url(#paint1_linear_2049_378)"
+       style="fill:#ea9e00;fill-opacity:1.0" />
+    <rect
+       id="Rectangle 441"
+       x="204"
+       y="139"
+       width="32"
+       height="32"
+       rx="8"
+       fill="url(#paint2_linear_2049_378)"
+       style="fill:#ea6c57;fill-opacity:1" />
+  </g>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="paint0_linear_2049_378"
+       x1="248"
+       y1="40"
+       x2="6.11676"
+       y2="213.373"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#49BAC8"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#229FAD"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_2049_378"
+       x1="92"
+       y1="170"
+       x2="124.659"
+       y2="138.687"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#DDC74C"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#F7E062"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear_2049_378"
+       x1="204"
+       y1="171"
+       x2="236.659"
+       y2="139.687"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#C48400"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#FFAD00"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+</svg>
