@@ -1,8 +1,8 @@
 # Linesty Icon Theme
 
 <div style="display:flex;">
-<img style="width:25em;" src="https://github.com/Fayra-Project/fayra-icon-theme/blob/main/preview-1.png"/>
-<img style="width:25em;" src="https://github.com/Fayra-Project/fayra-icon-theme/blob/main/preview-2.png"/>
+<img style="width:25em;" src="https://github.com/Linesty-Project/linesty-icon-theme/blob/main/preview-1.png"/>
+<img style="width:25em;" src="https://github.com/Linesty-Project/linesty-icon-theme/blob/main/preview-2.png"/>
 </div>
 <p></p>
 
