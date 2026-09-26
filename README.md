@@ -18,8 +18,9 @@ Linesty is designed primarily for COSMIC. Other desktop environments are not off
 
 1. Select **Code → Download ZIP**.
 2. Extract the downloaded `linesty-icon-theme-main.zip` archive.
-3. Open the extracted `linesty-icon-theme-main` folder.
-4. Inside it, you will find another folder named `linesty-icon-theme-main`. **Rename this inner folder to `Linesty`.**
+3. Locate the `linesty-icon-theme-main` folder containing the icon theme files.
+   * Depending on the archive tool you use, this folder may be directly inside the extracted archive location or inside an additional `linesty-icon-theme-main` folder.
+4. Rename the folder containing the icon theme files to **`Linesty`**.
 5. Copy the renamed `Linesty` folder to one of the following locations:
 
 ### User installation
